@@ -1,0 +1,25 @@
+Movie,Year,Month,Actor,Director,Rating,Box Office,Budget
+Dr. No,1962,10,Sean Connery,Terence Young,PG,59.5,1.0
+From Russia with Love,1963,10,Sean Connery,Terence Young,PG,78.9,2.0
+Goldfinger,1964,09,Sean Connery,Guy Hamilton,PG,124.9,3.0 
+Thunderball,1965,12,Sean Connery,Terence Young,PG,141.2,4.0
+You Only Live Twice,1967,06,Sean Connery,Lewis Gilbert,PG,111.6,5.0
+On Her Majesty's Secret Service,1969,12,George Lazenby,Peter Hunt,PG,82.8,6.0
+Diamonds Are Forever,1971,12,Sean Connery,Guy Hamilton,PG,116.8,7.0
+Live and Let Die,1973,06,Roger Moore,Guy Hamilton,PG,126.4,8.0
+The Man with the Golden Gun,1974,12,Roger Moore,Guy Hamilton,PG,98.5,9.0
+The Spy Who Loved Me,1977,07,Roger Moore,Lewis Gilbert,PG,185.4,10.0
+Moonraker,1979,06,Roger Moore,Lewis Gilbert,PG,210.3,11.0
+For Your Eyes Only,1981,06,Roger Moore,John Glen,PG,194.9,12.0 
+Octopussy,1983,06,Roger Moore,John Glen,PG,187.5,13.0 
+A View to a Kill,1985,05,Roger Moore,John Glen,PG,152.4,14.0 
+The Living Daylights,1987,06,Timothy Dalton,John Glen,PG,191.2,15.8 
+Licence to Kill,1989,07,Timothy Dalton,John Glen,PG-13,156.2,16.0 
+GoldenEye,1995,11,Pierce Brosnan,Martin Campbell,PG-13,356.4,17.8 
+Tomorrow Never Dies,1997,12,Pierce Brosnan,Roger Spottiswoode,PG-13,333.0,18.0 
+The World Is Not Enough,1999,11,Pierce Brosnan,Michael Apted,PG-13,361.8,19.0 
+Die Another Day,2002,11,Pierce Brosnan,Lee Tamahori,PG-13,432.0,20.0 
+Casino Royale,2006,11,Daniel Craig,Martin Campbell,PG-13,594.2,21.0 
+Quantum of Solace,2008,10,Daniel Craig,Marc Forster,PG-13,586.1,22.0 
+Skyfall,2012,10,Daniel Craig,Sam Mendes,PG-13,1108.6,23.0 
+Spectre,2015,10,Daniel Craig,Sam Mendes,PG-13,888.7,24.0
